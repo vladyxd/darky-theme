@@ -1,0 +1,13 @@
+{
+    "id": "darky",
+    "name": "Darky",
+    "files": "theme.css",
+    "author": "R40y0VQd",
+    "banner": "./Banner.png",
+    "images": [
+        "./Screenshot_0.png",
+        "./Screenshot_1.png",
+        "./Screenshot_2.png"
+    ],
+    "repoUrl": "https://github.com/"
+}
