@@ -3,7 +3,7 @@
 Welcome to Darky! 🚀
 
 <p align="center">
-  <img src="https://imgur.com/a/9gWf1Cp" alt="Darky">
+  <img src="https://i.imgur.com/X3giupv.png" alt="Darky">
 </p>
 
 ## Features
@@ -26,9 +26,9 @@ To use this dark theme, follow these simple steps:
 
 Here's a sneak peek at how your Guilded will look with this cool dark theme:
 
-![Screenshot 1](https://imgur.com/a/HtBM8MZ)
-![Screenshot 2](https://imgur.com/a/bGTBYak)
-![Screenshot 3](https://imgur.com/a/njbwPpX)
+![Screenshot 1](https://i.imgur.com/OACBZ8Q.png)
+![Screenshot 2](https://i.imgur.com/TkUMb5Q.png)
+![Screenshot 3](https://i.imgur.com/3GAsDQm.png)
 
 ## Feedback
 
